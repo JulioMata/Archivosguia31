@@ -1,0 +1,13 @@
+
+Conclusion 1
+Aprendimos acerca de uno de los más importantes de XML, Las etiquetas XML constituyen la base de XML. Ellos son los que definen el alcance de un elemento en el XML. También se pueden utilizar para insertar comentarios, declarar los ajustes necesarios para analizar el medio ambiente y para insertar instrucciones especiales.
+
+conclusion 2
+Una etiqueta es un identificador que empieza por el carácter < y termina por >. dentro pueden llevar elemnetos es todo lo que se encuentra entre las etiquetas de apertura y cierre, incluso si estos son también elementos en cuyo caso se llaman elementos hijos. y los atributos Se puede encontrar en las etiquetas de apertura o en las etiquetas vacías, pero no en las de cierre. 
+
+conclusion 3
+JSON es muy útil cuando se desarrolla una aplicación web donde se requiere una serialización de datos rápida, compacta y conveniente, sin embargo, su naturaleza flexible es lo que hace que sea menos adecuado que XML para la transferencia de datos entre sistemas separados, o el almacenamiento de datos que serán leídos por 3rd partes.
+
+conclusion 4
+Básicamente el uso del css, es emplear el lenguaje que maneja el diseño y presentación de las páginas web, es decir, cómo lucen cuando un usuario las visita. Funciona junto con el lenguaje HTML que se encarga del contenido básico de las páginas. haciendo que cada una de estas tenga su forma particular de desarrollarse
+
